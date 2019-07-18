@@ -1,3 +1,3 @@
-# Project 1 "My Personal Profile Page"
+# TECHDEGREE FRONT-END DEVELOPER PROJECTS"
 
-This project is about "My Personal Profile Page" for teamtreehouse front-end development techdegree course. The code consists of the basic knowledge of html and css. 
+These projects are my work for teamtreehouse front-end development techdegree course.
